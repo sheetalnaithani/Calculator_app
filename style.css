@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #393939;
+}
+
+.calc {
+  background-color: #2b2b2b;
+  width: 20vw;
+  height: 70vh;
+  margin: auto;
+  position: relative;
+  top: 7.6rem;
+  color: #00a19d;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.calc-day {
+  background-color: #ffdd5e;
+  width: 20vw;
+  height: 70vh;
+  margin: auto;
+  position: relative;
+  top: 7.6rem;
+  color: #393939;
+  border-radius: 12px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.calc-top {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  font-family: "Roboto Mono", sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.calc-top > i {
+  transform: rotate(-20deg);
+  font-size: 1.2rem;
+  border: 1px solid #393939;
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: -8px;
+}
+
+.input-div {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  height: 3.8rem;
+  width: 90%;
+  border: none;
+  border-radius: 15px;
+  background-color: #393939e3;
+  text-align: right;
+  padding: 0 1rem;
+  margin: 0.5rem;
+  font-size: 2rem;
+  color: #fff;
+  font-family: "Roboto Mono", sans-serif;
+  font-weight: 600;
+}
+
+.input-day {
+  height: 3.8rem;
+  width: 90%;
+  border: none;
+  border-radius: 15px;
+  background-color: #fff;
+  text-align: right;
+  padding: 0 1rem;
+  margin: 0.5rem;
+  font-size: 2rem;
+  color: #393939;
+  font-family: "Roboto Mono", sans-serif;
+  font-weight: 600;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.btn > button {
+  height: 3.5rem;
+  width: 3.5rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 50%;
+  transition: all 0.5s ease-in;
+  margin: 6px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #393939;
+  color: #ffdd5e;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.btn > button:hover {
+  border: 1px solid rgba(0, 0, 0, 0.35);
+}
