@@ -1,8 +1,8 @@
 # Calculator_app
 # Mini-Project-2 
 ## A calculator app with attractive UI
-#### AIM:-
-this projects aims for practising my skills in javascript . It allows to do day to day calculations in precise manner.
+
+This projects aims  to create a calculator app using HTML, CSS and Javascript. More features will be added to it later.
 ## SKILLS:-
 - HTML-5
 - CSS-3
@@ -10,14 +10,14 @@ this projects aims for practising my skills in javascript . It allows to do day 
 
 ## TECHNOLOGIES:- 💻
 - ##### Virtual Studio Code
--  ##### For storing Data [GitHub](https://github.com/)
--  ##### For Hosting & Deploying [netify](https://netify.com/)
+-  ##### Code repository [GitHub](https://github.com/)
+-  ##### For hosting & deployment [netify](https://netify.com/)
 
 ## Specific Features:
 
-- Based on dark and light theme grdient effect
-- Smooth scrolling and attractive UI
-- responsive webdesign
+- Based on dark and light theme gradient effect
+- Smooth scrolling and an attractive UI
+- Responsive webdesign (to be added)
 
 ## Author:
 
