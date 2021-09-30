@@ -42,5 +42,4 @@ If you have any feedback, please reach out to me at sheetalnaithani34@gmail.com
  - [Mentor - Ankeet Kumar Hanny](https://www.linkedin.com/in/ankeethanny007/) 
  - [W3School](https://www.w3schools.com/)
  - [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS)
- - [Code with Harry](https://www.codewithharry.com/videos/web-development-in-hindi-1)
- - [YouTube](https://www.youtube.com/)
+ 
