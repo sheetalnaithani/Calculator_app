@@ -35,7 +35,7 @@ If you have any feedback, please reach out to me at sheetalnaithani34@gmail.com
 ## 🔗 Contact Me:
 - [Linkedin](https://www.linkedin.com/in/sheetal-naithani-2a9001210/)
 
-- [gmail](https://mail.google.com/mail/u/0/#inbox)
+- [Gmail](https://mail.google.com/mail/u/0/#inbox)
 
   
 ## Acknowledgements:
